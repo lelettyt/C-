@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Thomas/Documents/Modelisation/cpp/tp1_lelettyt_gardelcl/src/Dvector.cpp
+iostream
+-
+string.h
+-
+random
+-
+fstream
+-
+iomanip
+-
+Dvector.h
+/mnt/c/Users/Thomas/Documents/Modelisation/cpp/tp1_lelettyt_gardelcl/src/Dvector.h
+
+/mnt/c/Users/Thomas/Documents/Modelisation/cpp/tp1_lelettyt_gardelcl/src/Dvector.h
+iostream
+-
+

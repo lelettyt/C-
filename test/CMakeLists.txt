@@ -1,0 +1,2 @@
+add_executable(test_Constructor TestConstructors.cpp)
+target_link_libraries(test_Constructor PUBLIC libsrc PUBLIC gtest)

@@ -1,0 +1,2 @@
+/usr/bin/ar cr liblibsrc.a  CMakeFiles/libsrc.dir/Dvector.cpp.o
+/usr/bin/ranlib liblibsrc.a
